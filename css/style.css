@@ -1,0 +1,83 @@
+* {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Navbar */
+
+.navbar{
+    height: 60px;
+}
+
+.tab{
+    border: none;
+}
+
+/* Hero Section */
+
+.btn-violet{
+    background-color: violet;
+}
+
+.news-title{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+/* News Category */
+
+.blur-bg {
+  backdrop-filter: blur(3px);
+  background-color: rgba(0, 0, 0, 0.4);
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Editor's Pick */
+
+.editor-title{
+    font-size: 16px;
+    font-weight: 300;
+}
+
+/* Latest News */
+
+.news{
+    background-color: rgba(236,143,104,255);
+}
+.news-title{
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+/* Editorial Team */
+
+.esther{
+    background-color: rgba(203,136,89,255);
+}
+
+/* Footer */
+
+.input-group .input-group-text {
+    border-right: none;
+  }
+
+  .input-group .form-control {
+    border-left: none;
+  }
+
+  .custom-link {
+    color: #a9a9a6 !important;
+    text-decoration: none; 
+}
+
+.social-link{
+    text-decoration: none; 
+}
+
+.custom-footer-link{
+    color: #a9a9a6 !important;
+    font-size: 16px;
+    text-decoration: none; 
+}
